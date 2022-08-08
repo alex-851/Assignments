@@ -11,9 +11,10 @@ public class BANK {
 		Scanner sc=new Scanner(System.in);
 		int a=sc.nextInt();
 		if(a==3)
-		{
+		{efefef
 			System.out.println("You must use the platinum card!");
-			
+			J5KFJTGK6JGK6TGK6G
+			JJJJKJGUGTUKGKUGUK
 		}
 		if(a==2) {
 			System.out.println("please enter the names of 2 cards ");
