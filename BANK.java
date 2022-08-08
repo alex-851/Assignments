@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class BANK {
 		HI THERE
+			how are you
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hi there,how many credit cards are there with you?");
