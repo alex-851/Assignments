@@ -16,6 +16,8 @@ public class BANK {
 			System.out.println("You must use the platinum card!");
 			J5KFJTGK6JGK6TGK6G
 			JJJJKJGUGTUKGKUGUK
+			DD
+			FEFEFCE
 		}
 		if(a==2) {
 			System.out.println("please enter the names of 2 cards ");
